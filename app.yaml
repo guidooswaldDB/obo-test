@@ -1,0 +1,4 @@
+command:
+  - "streamlit"
+  - "run"
+  - "src/app/app.py"
